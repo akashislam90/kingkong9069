@@ -1,0 +1,26 @@
+body {
+    background-image: url("akash.img.jfif");
+    background-color: #28d831;
+   }
+ul {
+    list-style-type: none;
+    margin: 30px;
+    padding: 20px;
+  }
+
+  /* Dropdown Button */
+.dropbtn {
+    background-color: #0f110f;
+    color: rgb(197, 17, 17);
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+
+  ul.a {
+    list-style-type: circle;
+    background: #d1c8cf;
+    margin: 5px;
+  }
+  
